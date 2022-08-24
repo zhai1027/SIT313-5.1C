@@ -1,0 +1,32 @@
+.Background_Color{
+  background-color: grey;
+}
+
+.position_change{
+  margin-left:20px;
+  font-style: italic;
+}
+
+.position_change_new{
+  margin-top: -10px;
+  height:100px;
+  width: 1800px;
+}
+
+.position_change_new2{
+  margin-top: -10px;
+  height:200px;
+  width: 1800px;
+}
+
+.button_Post{
+  margin-left: 1708px;
+  background-color: grey;
+  color: white;
+  padding: 5px 32px;
+  font-size: 16px;
+}
+
+.Text{
+  text-align: left;
+}
